@@ -80,7 +80,7 @@ This project combines two advanced computer vision applications: Helmet Detectio
 yolo weights :-
 https://drive.google.com/drive/folders/1uoNASEOVJ2rP9HxuyIiiNZt682rDV7Pg?usp=drive_link
 
-Here is the output with some images
+**Here is the output with some images**
 
 ![WhatsApp Image 2024-06-29 at 23 00 20_08cd3b0e](https://github.com/charann29/cmr_opensource/assets/169017734/f72ddcef-84bb-433f-bdf7-221f9db99d04)
 
