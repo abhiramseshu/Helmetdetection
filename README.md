@@ -41,7 +41,7 @@ To install and run this project locally, follow these steps:
 
 3.  *Download pretrained models (if necessary):*
 
-    -   Follow instructions in models/README.md to download pretrained models for helmet detection and ALPR.
+    -   click the link at the end to download
 
 Usage
 -----
@@ -75,21 +75,11 @@ Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.
 
-License
--------
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
----------------
-
--   This project uses pretrained models from [Model Zoo](https://modelzoo.co/).
--   Special thanks to contributors and maintainers.
-
 This project combines two advanced computer vision applications: Helmet Detection using Machine Learning and Automatic License Plate Recognition (ALPR). The Helmet Detection component utilizes deep learning models to detect the presence of helmets in images or video streams, providing real-time detection and bounding box visualization. This is particularly useful for safety monitoring in construction sites, industrial environments, and sports events. On the other hand, the ALPR module employs image processing techniques and optical character recognition (OCR) to accurately extract license plate numbers from vehicles in images or videos.
 -----------------
 yolo weights :-
 https://drive.google.com/drive/folders/1uoNASEOVJ2rP9HxuyIiiNZt682rDV7Pg?usp=drive_link
+
 Here is the output with some images
 
 ![WhatsApp Image 2024-06-29 at 23 00 20_08cd3b0e](https://github.com/charann29/cmr_opensource/assets/169017734/f72ddcef-84bb-433f-bdf7-221f9db99d04)
