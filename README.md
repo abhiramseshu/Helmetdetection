@@ -19,13 +19,9 @@ Installation
 To install and run this project locally, follow these steps:
 
 1.  *Clone the repository:*
-
-    bash
-
-    Copy code
-
-    `git clone https://github.com/your-username/helmet-alpr.git
-    cd helmet-alpr`
+    ```bash
+    git clone https://github.com/your-username/helmet-alpr.git
+    cd helmet-alpr
 
 2.  *Set up environment:*
 
@@ -33,11 +29,8 @@ To install and run this project locally, follow these steps:
 
     -   Install dependencies:
 
-        bash
-
-        Copy code
-
-        pip install -r requirements.txt
+        ```bash
+        pip install -r requirements.tx
 
 3.  *Download pretrained models (if necessary):*
 
@@ -50,23 +43,15 @@ Usage
 
 To use helmet detection, run:
 
-bash
-
-Copy code
-
-python helmet_detection.py --input path/to/image_or_video --output path/to/save/result
+    python helmet_detection.py --input path/to/image_or_video --output path/to/save/result
 
 Replace path/to/image_or_video with the path to your input image or video file. The output will be saved at path/to/save/result.
 
-### Automatic License Plate Recognition (ALPR)
+### Automatic License Plate Recognition (ALPR)    
 
 To perform ALPR, run:
 
-bash
-
-Copy code
-
-python alpr.py --input path/to/image_or_video --output path/to/save/result
+    python alpr.py --input path/to/image_or_video --output path/to/save/result
 
 Replace path/to/image_or_video with the path to your input image or video file. The recognized license plates and their bounding boxes will be saved at path/to/save/result.
 
